@@ -6,11 +6,12 @@ In summary, a calculator is a tool that performs basic arithmetic operations on 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/86552576/233348985-e46272a8-64fa-40bf-ba5f-d804b7c4dd93.png)
+![image](https://user-images.githubusercontent.com/86552576/233349244-34bb0d22-08d9-471b-b4ec-a8b5b0c71c1c.png)
+![image](https://user-images.githubusercontent.com/86552576/233349315-5286ed1b-4653-44d3-9ced-e222e9348364.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ## Tech Stack
 
